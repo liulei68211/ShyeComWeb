@@ -1,0 +1,376 @@
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\无人计量标准化\实业公司webService\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\无人计量标准化\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\实业公司 最新程序\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\实业公司 最新程序\0506Web\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量测试程序\0509 WEB\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量测试程序\webSer\0515\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量测试程序\webSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0529\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0530\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0605\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0622 接收图片和原厂磅单分开\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0626\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WebSer\0628\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WEB\0704  正用\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojResolveAssemblyReference.cache
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+G:\金马无人计量正式程序\WEB\0706\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0801\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0917\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1010\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1017\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1125\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1213\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\1218\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0103\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0301\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0306\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+D:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+E:\金马无人计量正式程序\WebService\0311\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll.config
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.dll
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.XmlSerializers.dll
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\bin\ShyeComWeb.pdb
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.dll
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.pdb
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\bin\Newtonsoft.Json.xml
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csprojAssemblyReference.cache
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CoreCompileInputs.cache
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.csproj.CopyComplete
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.dll
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.pdb
+E:\金马无人计量正式程序\WebService\0324\ShyeComWeb\ShyeComWeb\obj\Release\ShyeComWeb.XmlSerializers.dll
